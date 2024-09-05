@@ -5,7 +5,7 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import NetflixLogo from "../../assets/images/NetflixLogo.png"
-
+// API-Key 42b00ddda818970b9975f24136a0c6c0
 
  function Header() {
   return (
